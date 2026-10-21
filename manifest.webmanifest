@@ -1,0 +1,19 @@
+{
+  "name": "LIFE OS \u2014 Personal System",
+  "short_name": "LIFE OS",
+  "description": "Offline-first personal productivity, workouts, habits and focus.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

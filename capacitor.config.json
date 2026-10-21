@@ -1,0 +1,9 @@
+{
+  "appId": "com.lifeos.personal",
+  "appName": "LIFE OS",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}
